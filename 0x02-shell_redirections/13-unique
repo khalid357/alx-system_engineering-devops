@@ -1,17 +1,2 @@
 #!/bin/bash
-sort 13-unique | uniq -u
-C
-C#
-C++
-C++
-Javascript
-Java
-Pythin
-Python 
-Python
-Java
-PERL
-Prl
-Javascript
-javascript:wq
-
+sort lists | uniq -u
