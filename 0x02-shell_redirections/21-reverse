@@ -1,2 +1,2 @@
 #1/bin/bash
-rev "hello"
+echo "21-reverse" | rev
